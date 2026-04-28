@@ -1,0 +1,16 @@
+
+
+{
+    "full_name": "Md.Sajib Mondol",
+    "username": "sajib",
+    "email": "sajibmondol00@gmail.com",
+    "phone_number": "01234567891",
+    "password": "123456@",
+    "role": "super_admin",
+    "employee_id": "1",
+    "address": "dhaka",
+    "security_question": "school_name",
+    "profile_picture": "..\/uploads\/profile_pictures\/library-logo.jpg",
+    "default_language": "english",
+    "time_zone": "gmt"
+}
